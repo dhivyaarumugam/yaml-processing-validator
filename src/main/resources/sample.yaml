@@ -1,0 +1,6 @@
+hello: world
+arrayAsArray: ['a', 'b']
+emptyString: ""
+arrayAsString: "[a,b,c]"
+emptyArray: []
+emptyElementArray: [""]
