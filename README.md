@@ -14,7 +14,7 @@ mvn spring-boot:run
 
 ## Sample yaml
 
-This can be modified here [sample.yaml](https://github.intuit.com/services-config/yaml-validate/blob/master/src/main/resources/sample.yaml)
+This can be modified here [sample.yaml](https://github.com/dhivyaarumugam/yaml-processing-validator/blob/master/src/main/resources/sample.yaml)
 
 ```
 hello: world
